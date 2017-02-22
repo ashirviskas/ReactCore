@@ -1,1 +1,4 @@
-# C-Core-React.jsDatabase
+# ReactCore 
+readme lul
+fine gramotix
+ty
